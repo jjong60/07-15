@@ -9,4 +9,5 @@ result = 0 # 아무것도 더하지 않으면 0이니까 0으로 초기화
 while i <= N:
     result = result + i
     i = i + 1
+    
 print(result)
